@@ -1,0 +1,14 @@
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\Framework.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\Framework.pdb
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Release\Framework.csproj.AssemblyReference.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Release\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Release\Framework.csproj.CopyComplete
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Release\Framework.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Release\Framework.pdb
+C:\Users\Natalie\Downloads\lhf_changes\bin\Framework.dll
+C:\Users\Natalie\Downloads\lhf_changes\bin\Framework.pdb
+C:\Users\Natalie\Downloads\lhf_changes\Framework\obj\x64\Release\Framework.csproj.AssemblyReference.cache
+C:\Users\Natalie\Downloads\lhf_changes\Framework\obj\x64\Release\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\Downloads\lhf_changes\Framework\obj\x64\Release\Framework.csproj.CopyComplete
+C:\Users\Natalie\Downloads\lhf_changes\Framework\obj\x64\Release\Framework.dll
+C:\Users\Natalie\Downloads\lhf_changes\Framework\obj\x64\Release\Framework.pdb

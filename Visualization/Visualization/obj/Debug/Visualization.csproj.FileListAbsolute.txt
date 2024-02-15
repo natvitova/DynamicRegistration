@@ -1,0 +1,13 @@
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\bin\Debug\Visualization.dll.config
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\bin\Debug\Visualization.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\bin\Debug\Visualization.pdb
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\bin\Debug\MathNet.Numerics.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\bin\Debug\MathNet.Numerics.xml
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.csproj.AssemblyReference.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.Form1.resources
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.csproj.GenerateResource.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.csproj.CopyComplete
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Visualization\Visualization\obj\Debug\Visualization.pdb

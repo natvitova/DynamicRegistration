@@ -1,0 +1,17 @@
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\config.txt
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\match.exe.config
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\match.exe
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\match.pdb
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\ClusterRegister\obj\x64\Release\DensityRegister.csproj.AssemblyReference.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\ClusterRegister\obj\x64\Release\DensityRegister.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\ClusterRegister\obj\x64\Release\DensityRegister.csproj.CopyComplete
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\ClusterRegister\obj\x64\Release\match.exe
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\ClusterRegister\obj\x64\Release\match.pdb
+C:\Users\Natalie\Downloads\lhf_changes\bin\match.exe.config
+C:\Users\Natalie\Downloads\lhf_changes\bin\match.exe
+C:\Users\Natalie\Downloads\lhf_changes\bin\match.pdb
+C:\Users\Natalie\Downloads\lhf_changes\ClusterRegister\obj\x64\Release\DensityRegister.csproj.AssemblyReference.cache
+C:\Users\Natalie\Downloads\lhf_changes\ClusterRegister\obj\x64\Release\DensityRegister.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\Downloads\lhf_changes\ClusterRegister\obj\x64\Release\DensityRegister.csproj.CopyComplete
+C:\Users\Natalie\Downloads\lhf_changes\ClusterRegister\obj\x64\Release\match.exe
+C:\Users\Natalie\Downloads\lhf_changes\ClusterRegister\obj\x64\Release\match.pdb

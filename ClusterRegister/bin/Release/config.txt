@@ -1,0 +1,7 @@
+﻿sample_size_P 10000
+delta_ratio 0.02
+acceptance_threshold 0.03
+nbhood_width 8
+psample_count 10000
+spread 25
+deterministic false

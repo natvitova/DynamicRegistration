@@ -1,0 +1,7 @@
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\Framework.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\bin\Framework.pdb
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Debug\Framework.csproj.AssemblyReference.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Debug\Framework.csproj.CopyComplete
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Debug\Framework.dll
+C:\Users\Natalie\source\repos\natvitova\LHF_DensityRegistration\Framework\obj\x64\Debug\Framework.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartArguments>C:\Users\Natalie\Documents\LHF\data\left-diag\sub C:\Users\Natalie\Documents\LHF\data\left-diag\sub</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <StartArguments>C:\Users\Natalie\Documents\LHF\data\left-diag\sub C:\Users\Natalie\Documents\LHF\data\left-diag\sub</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>C:\Users\Natalie\Documents\LHF\data\left-diag\sub C:\Users\Natalie\Documents\LHF\data\left-diag\sub</StartArguments>
+  </PropertyGroup>
+</Project>
