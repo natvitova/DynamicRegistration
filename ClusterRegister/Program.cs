@@ -13,7 +13,7 @@ namespace ClusterRegister
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome, this is an implementation of the algorithm described in Automatic registration of 3D point cloud sequences, GRAPP 2024\n(c) University of West Bohemia, lvasa@kiv.zcu.cz");
-            string errorLine = "There are two parameters expected - the path to the source data and the path to the target data.\nEx: %~dp0\\ClusterRegister\\bin\\Release\\match.exe C:\\Users\\user\\Documents\\source C:\\Users\\user\\Documents\\target\nThe names of the files in the source folder should match the names of the corresponiding files in the target folder.";
+            string errorLine = "There are two parameters expected - the path to the source data and the path to the target data.\nEx: %~dp0\\bin\\match.exe C:\\Users\\user\\Documents\\source C:\\Users\\user\\Documents\\target\nThe names of the files in the source folder should match the names of the corresponiding files in the target folder.";
 
             string sourcePath = "";
             string targetPath = "";
